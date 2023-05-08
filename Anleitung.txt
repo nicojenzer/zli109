@@ -1,0 +1,8 @@
+git clone https://nicojenzer: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@github.com/nicojenzer/nicojenzer.git
+https://<Benutzername>:<Personal Access Token>@github.com/<Benutzername>/<Repositoryname>.git
+
+git init
+git add *
+git commit -m "first push"
+git push
+
