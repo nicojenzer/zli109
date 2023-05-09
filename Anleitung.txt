@@ -1,8 +1,15 @@
-git clone https://nicojenzer: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@github.com/nicojenzer/nicojenzer.git
+git clone https://nicojenzer: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@github.com/nicojenzer/zli109.git
 https://<Benutzername>:<Personal Access Token>@github.com/<Benutzername>/<Repositoryname>.git
 
-git init
 git add *
 git commit -m "first push"
 git push
 
+git config --global user.name "nicojenzer"
+git config --global user.email "nico.jenzer@gmail.com"
+
+
+
+
+
+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
