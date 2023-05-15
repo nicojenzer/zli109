@@ -1,4 +1,3 @@
-git clone https://nicojenzer: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@github.com/nicojenzer/zli109.git
 https://<Benutzername>:<Personal Access Token>@github.com/<Benutzername>/<Repositoryname>.git
 
 git add *
@@ -8,8 +7,5 @@ git push
 git config --global user.name "nicojenzer"
 git config --global user.email "nico.jenzer@gmail.com"
 
-
-
-
-
-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
+git remote add origin https://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@github.com/nicojenzer/zli109.git
+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
